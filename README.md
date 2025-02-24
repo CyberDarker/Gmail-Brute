@@ -29,13 +29,15 @@ This tool is no longer updated, i've made its more elite version that can crack 
 4. chmod +x *
 5. python3 crack.py
 6. Enter path of mail list
-7. You can use defaul wordlist (passwords)
-8. Use of defaul proxy is not recommended
-9. Common SMTP Hosts:
+7. Example: Agar aapki email list /sdcard/emails.txt mein saved hai, toh yeh command enter karenge:
+8. You can use defaul wordlist (passwords)
+9. Example: Agar password list /sdcard/passwords.txt mein saved hai, toh yeh command enter karenge:
+10. Use of defaul proxy is not recommended
+11. Common SMTP Hosts:
 Gmail SMTP host: smtp.gmail.com
 Yahoo SMTP host: smtp.mail.yahoo.com
 Outlook SMTP host: smtp-mail.outlook.com
-10. Wait...
+12. Wait...
 ! Enjoy !
 
 # Old Version Screenshots

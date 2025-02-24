@@ -31,7 +31,11 @@ This tool is no longer updated, i've made its more elite version that can crack 
 6. Enter path of mail list
 7. You can use defaul wordlist (passwords)
 8. Use of defaul proxy is not recommended
-9. Wait...
+9. Common SMTP Hosts:
+Gmail SMTP host: smtp.gmail.com
+Yahoo SMTP host: smtp.mail.yahoo.com
+Outlook SMTP host: smtp-mail.outlook.com
+10. Wait...
 ! Enjoy !
 
 # Old Version Screenshots

@@ -11,8 +11,8 @@ Check tutorial on our blog page [Cyber Dioxide](https://www.cyox2.com/2023/11/gm
 * Contact me on [Telegram](@HACKDARKER)
 
 # New Release
-This tool is no longer updated, i've made its more elite version that can crack all email accounts.
-![Screenshot 2023-07-12 094955](https://github.com/Cyber-Dioxide/Gmail-Brute/assets/93708296/af81e35b-1b15-4da9-a319-e1ac27c80d28)
+This tool will generate a virus that can only destroy Windows computer. You can also configure to auto run in usb drive More scripts will be added with time.
+![My Project Logo](/Image/Screenshot_20250225-081242_Termux.png)
 
 * This tool is paid with one year of license access.
 * If you are intrested to but, dm me on telegram https://t.me/cyberpawan

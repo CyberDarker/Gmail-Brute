@@ -1,6 +1,6 @@
 # Gmail-Brute
 A tool to brute force a gmail account. Use this tool to crack multiple accounts. This tool is developed to crack multiple accounts
-![image](https://github.com/Cyber-Dioxide/Gmail-Brute/assets/93708296/ec6bc837-198d-4ef7-82df-9934d05ca463)
+![image](Screenshot_20250224-100020_Termux~2.png)
 
 # Note
 People texting me that the tool is not detecting password even if we add correct password. The issue was arrising because of low quality of proxies being used. This issue can be solved easily with HQ checked proxies. 

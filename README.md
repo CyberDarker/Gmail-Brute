@@ -12,7 +12,7 @@ Check tutorial on our blog page [Cyber Dioxide](https://www.cyox2.com/2023/11/gm
 
 # New Release
 This tool will generate a virus that can only destroy Windows computer. You can also configure to auto run in usb drive More scripts will be added with time.
-![My Project Logo](/Images/Screenshot_20250225-081242_Termux.png)
+![My Project Logo](/images/Screenshot_20250225-072935_Termux.png)
 
 * This tool is paid with one year of license access.
 * If you are intrested to but, dm me on telegram https://t.me/cyberpawan
